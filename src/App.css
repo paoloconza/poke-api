@@ -121,9 +121,8 @@ header > div:first-child{
 }
 
 #sideBar-divImg > img{
-  border: 1px solid black;
   border-radius: 15px;
-  height: 120px;
+  max-height: 250px;
 }
 
 #sideBar-divText{
